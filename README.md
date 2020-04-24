@@ -1,4 +1,4 @@
-# personalid
+# Personal ID
 
 An application for personal identification information.
 
